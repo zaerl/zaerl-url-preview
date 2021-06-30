@@ -1,6 +1,5 @@
 === zaerl URL Preview ===
 Contributors: zaerl
-Donate link: http://bit.ly/cJKknC
 Tags: hyperlink, url
 Requires at least: 1.0.2
 Tested up to: 1.0.2
